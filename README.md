@@ -1,7 +1,7 @@
-Homebrew-funyard
+Homebrew-vintage
 ========
 
-Homebrew-funyard is a place to keep supporting little tidbits and easter eggs depreciated from the master repository.
+Homebrew-vintage is a place to keep supporting little tidbits and easter eggs depreciated from the master repository.
 
 The master repository depreciated them for entirely understandable reasons, namely that folks weren’t supporting them and they were just kind of sitting around occupying space and never being updated.
 
@@ -9,7 +9,7 @@ The code remains under the same license, and all of my contributions and anyone 
 
 How do I tap this repository?
 --------------------------------
-Just `brew tap domt4/funyard`.
+Just `brew tap domt4/vintage`.
 
 **ORIGINAL HOMEBREW TEXT**:
 
