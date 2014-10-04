@@ -7,6 +7,9 @@ The master repository depreciated them for entirely understandable reasons, name
 
 The code remains under the same license, and all of my contributions and anyone else’s contributions are covered by that license. The code is also welcome to be reincorporated into the master repository at any point. Please don’t submit PRs if you have any issue with that.
 
+How do I tap this repository?
+--------------------------------
+Just `brew tap domt4/funyard`.
 
 **ORIGINAL HOMEBREW TEXT**:
 
